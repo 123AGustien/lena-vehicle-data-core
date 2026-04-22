@@ -43,3 +43,36 @@ It supports replayable simulation, failure analysis, and system-level observabil
 
 Early-stage engineering prototype for research and validation.
 
+---
+
+## System Context (Sextant System Stack)
+
+Lena is part of a larger deterministic systems framework:
+
+### 1. Lena Vehicle Data Core
+Responsible for:
+- Event capture
+- Deterministic logging
+- Data integrity
+
+### 2. Cascade Lens
+Responsible for:
+- Event replay
+- System simulation
+- Failure propagation analysis
+
+---
+
+## Unified Architecture Flow
+
+Vehicle Systems → Lena (Data Layer) → Cascade Lens (Simulation Layer) → Observability Layer
+
+---
+
+## Relationship Principle
+
+> Lena defines *what happened*  
+> Cascade Lens determines *what it means*
+
+Together they enable full system reconstruction and analysis of complex vehicle behavior.
+

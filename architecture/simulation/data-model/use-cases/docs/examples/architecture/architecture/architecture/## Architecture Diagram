@@ -1,0 +1,2 @@
+## Architecture Diagram
+[ Vehicle Sensors / ECUs / Control Units ] │ ▼ [ Event Capture Layer ] │ ▼ [ Deterministic Log Engine ] │ ▼ [ Structured Data Store ] │ ┌───────────┴───────────┐ ▼                       ▼ [ Replay / Simulation ]   [ Observability Engine ] │                       │ └───────────┬───────────┘ ▼ [ Failure Analysis & Diagnostics Layer ]

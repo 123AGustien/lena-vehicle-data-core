@@ -1,4 +1,4 @@
-
+Lena forms the foundational data layer of the Sextant System Stack.
 ![Status](https://img.shields.io/badge/status-research%20prototype-blue)
 ![Type](https://img.shields.io/badge/system-deterministic%20architecture-green)
 ![Focus](https://img.shields.io/badge/domain-automotive%20systems-orange)

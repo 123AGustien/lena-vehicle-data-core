@@ -1,3 +1,11 @@
+# System Entry Point
+
+If you are new to this system:
+
+1. Start with **Core Principle**
+2. Then review **System Layers**
+3. Then read **System Context (Sextant Stack)**
+Lena
 Lena forms the foundational data layer of the Sextant System Stack.
 ![Status](https://img.shields.io/badge/status-research%20prototype-blue)
 ![Type](https://img.shields.io/badge/system-deterministic%20architecture-green)
